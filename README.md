@@ -79,6 +79,8 @@ Performed detailed EDA to:
 ---
 
 ## Folder Structure
+<pre><code>
+``` bash
 clv-xgboost-regression/
 ├── data/ # Dataset
 ├── notebooks/ # Jupyter notebooks with EDA and modeling
@@ -86,6 +88,8 @@ clv-xgboost-regression/
 ├── xgb_clv_imp_model.pkl # Trained XGBoost model ( with important features)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
+</code></pre>
 
 ## Future Improvements
 
